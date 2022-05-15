@@ -1,0 +1,30 @@
+#div_1{
+    background: rgb(0, 255, 234);
+    padding: 10px;
+    float: none;
+    border-radius: 15px;
+}
+    
+body{
+    background-color: yellow;
+}
+
+#heading{
+    color: white;
+}
+
+#note{
+    color: white;
+}
+
+#step_1{
+    color: white;
+}
+
+#step_2{
+    color: white;
+}
+
+#main{
+    color: white;
+}
